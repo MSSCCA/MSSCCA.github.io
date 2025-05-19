@@ -1,8 +1,9 @@
 url: https://msscca.github.io/
-baseurl: 
+baseurl: /msscca.github.io/
+# need to add /msscca.github.io/ back in when we are hosting this
 
 # Site settings
-title: Awesome Title
+title: Mississippi SCCA Region
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
