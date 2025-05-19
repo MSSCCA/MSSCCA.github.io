@@ -934,3 +934,10 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+/* Mobile Timeline Adjustments */
+@media (max-width: 767.98px) {
+    #about {
+        display: none !important;
+    }
+}
